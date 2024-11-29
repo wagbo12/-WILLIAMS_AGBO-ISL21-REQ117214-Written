@@ -1,21 +1,19 @@
-using System;
-using System.Text.json.Serialization;
+using System.Text.Json.Serialization;
 
 namespace src.Models
 {
     public class InputData
     {
         [JsonPropertyName("id")]
-        public string _id {get; set;}
+        public string _id { get; set; } = string.Empty; 
 
-        [JsonPropertyName("numberofChildren")]
-        public int NumberofChildren {get; set;} // min = 0 max =?
+        [JsonPropertyName("numberOfChildren")]
+        public int NumberOfChildren { get; set; }
 
         [JsonPropertyName("familyComposition")]
-        public string FamilyComposition {get; set;} // single or couple
+        public string FamilyComposition { get; set; } = string.Empty; 
 
         [JsonPropertyName("familyUnitInPayForDecember")]
         public bool FamilyUnitInPayForDecember { get; set; }
     }
 }
-

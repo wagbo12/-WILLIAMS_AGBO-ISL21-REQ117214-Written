@@ -1,13 +1,14 @@
-using system;
+using System;
 using src.Models;
 
 namespace src
 {
-    public class RulesEngine{
-
-        public OutputData process(InputData inputdata){
-
-            var output  = new OutputData{
+    public class RulesEngine
+    {
+        public OutputData Process(InputData inputdata)  
+        {
+            var output = new OutputData
+            {
                 _id = inputdata._id,
                 IsEligible = inputdata.FamilyUnitInPayForDecember,
                 BaseAmount = 0,
@@ -15,22 +16,20 @@ namespace src
                 SupplementAmount = 0
             };
 
-            if (!inputdata.FamilyUnitInPayForDecember){
+            if (!inputdata.FamilyUnitInPayForDecember)
+            {
                 output.IsEligible = false;
                 return output;
             }
 
             output.BaseAmount = BaseAmount_Calculate(inputdata.FamilyComposition);
-
-            output.ChildrenAmount = ChildrenAmount_Calculate(inputdata.NumberofChildren);
-
-
+            output.ChildrenAmount = ChildrenAmount_Calculate(inputdata.NumberOfChildren);  
             output.SupplementAmount = output.BaseAmount + output.ChildrenAmount;
 
             return output;
         }
 
-        private int BaseAmount_Calculate(string familyComposition){
+        private float BaseAmount_Calculate(string familyComposition){
             if (familyComposition == "single"){
                 return 60;
             } 
@@ -42,7 +41,7 @@ namespace src
             }
         }
 
-        private int ChildrenAmount_Calculate(int childrenAmount){
+        private float ChildrenAmount_Calculate(int childrenAmount){
             if (childrenAmount == 0){
                 return 0;
             }

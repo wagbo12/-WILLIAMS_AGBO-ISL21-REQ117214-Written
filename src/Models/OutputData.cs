@@ -1,23 +1,22 @@
-using System;
-using System.Text.json.Serialization;
+using System.Text.Json.Serialization;
 
 namespace src.Models
 {
-    public class InputData
+    public class OutputData
     {
         [JsonPropertyName("id")]
-        public string _id {get; set;}// ID from Input
+        public string _id { get; set; } = string.Empty;
 
         [JsonPropertyName("isEligible")]
-        public bool IsEligible {get; set;}// Eligibility, equal to "familyUnitInPayForDecember"
+        public bool IsEligible { get; set; }
 
         [JsonPropertyName("baseAmount")]
-        public float baseAmount {get; set;}// Base amount calculated from family composition
+        public float BaseAmount { get; set; }
 
         [JsonPropertyName("childrenAmount")]
-        public float ChildrenAmount {get; set;}// Additional amount for children
+        public float ChildrenAmount { get; set; }
 
-         [JsonPropertyName("supplementAmount")]
-        public float SupplementAmount {get; set;}// Total amount
+        [JsonPropertyName("supplementAmount")]
+        public float SupplementAmount { get; set; }
     }
 }

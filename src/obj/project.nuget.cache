@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "N559T56rpHwU6dgK+8ZuAah2fLULcQwcMlWpnwpIiC9qz16qRy4WUBdKbI6Y+dPV0JUyetLo8lYkCy1MGUVOCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\src\\src.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agbow\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
+    "C:\\Users\\agbow\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.0\\microsoft.bcl.asyncinterfaces.9.0.0.nupkg.sha512",
+    "C:\\Users\\agbow\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\1.4.3\\microsoft.testing.extensions.telemetry.1.4.3.nupkg.sha512",
+    "C:\\Users\\agbow\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\1.4.3\\microsoft.testing.extensions.trxreport.abstractions.1.4.3.nupkg.sha512",
+    "C:\\Users\\agbow\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\1.4.3\\microsoft.testing.extensions.vstestbridge.1.4.3.nupkg.sha512",
+    "C:\\Users\\agbow\\.nuget\\packages\\microsoft.testing.platform\\1.4.3\\microsoft.testing.platform.1.4.3.nupkg.sha512",
+    "C:\\Users\\agbow\\.nuget\\packages\\microsoft.testing.platform.msbuild\\1.4.3\\microsoft.testing.platform.msbuild.1.4.3.nupkg.sha512",
+    "C:\\Users\\agbow\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.11.1\\microsoft.testplatform.objectmodel.17.11.1.nupkg.sha512",
+    "C:\\Users\\agbow\\.nuget\\packages\\mstest.testadapter\\3.6.3\\mstest.testadapter.3.6.3.nupkg.sha512",
+    "C:\\Users\\agbow\\.nuget\\packages\\mstest.testframework\\3.6.3\\mstest.testframework.3.6.3.nupkg.sha512",
+    "C:\\Users\\agbow\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\agbow\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\agbow\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
+    "C:\\Users\\agbow\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\agbow\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\agbow\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\agbow\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
+    "C:\\Users\\agbow\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512",
+    "C:\\Users\\agbow\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
