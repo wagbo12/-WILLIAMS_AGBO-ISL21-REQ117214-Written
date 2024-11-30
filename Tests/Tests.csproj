@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+   <PackageReference Include="DotNetEnv" Version="3.1.1" />
+   <PackageReference Include="MQTTnet" Version="4.3.7.1207" />
     <ProjectReference Include="..\src\src.csproj" />
     <PackageReference Include="MSTest.TestAdapter" Version="3.6.3" />
     <PackageReference Include="MSTest.TestFramework" Version="3.6.3" />

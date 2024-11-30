@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\Tests\\Tests.csproj": {}
+    "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\tests\\Tests.csproj": {}
   },
   "projects": {
     "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\src\\src.csproj": {
@@ -45,6 +45,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "DotNetEnv": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MQTTnet": {
+              "target": "Package",
+              "version": "[4.3.7.1207, )"
+            },
             "MSTest.TestAdapter": {
               "target": "Package",
               "version": "[3.6.3, )"
@@ -78,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\Tests\\Tests.csproj": {
+    "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\Tests\\Tests.csproj",
+        "projectUniqueName": "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\Tests\\Tests.csproj",
+        "projectPath": "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\agbow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\Tests\\obj\\",
+        "outputPath": "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -123,6 +131,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "DotNetEnv": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MQTTnet": {
+              "target": "Package",
+              "version": "[4.3.7.1207, )"
+            },
             "MSTest.TestAdapter": {
               "target": "Package",
               "version": "[3.6.3, )"

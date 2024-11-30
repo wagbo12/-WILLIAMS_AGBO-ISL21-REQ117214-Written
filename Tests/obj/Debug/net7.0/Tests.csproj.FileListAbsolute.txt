@@ -175,3 +175,9 @@ C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\Tests\obj
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\Tests\obj\Debug\net7.0\Tests.pdb
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\Tests\obj\Debug\net7.0\Tests.genruntimeconfig.cache
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\Tests\obj\Debug\net7.0\ref\Tests.dll
+C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\tests\bin\Debug\net7.0\DotNetEnv.dll
+C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\tests\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\tests\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\tests\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\tests\bin\Debug\net7.0\MQTTnet.dll
+C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\tests\bin\Debug\net7.0\Sprache.dll

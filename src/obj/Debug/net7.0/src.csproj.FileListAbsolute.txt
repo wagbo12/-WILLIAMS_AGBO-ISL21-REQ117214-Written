@@ -1,3 +1,8 @@
+C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\obj\Debug\net7.0\src.csproj.AssemblyReference.cache
+C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\obj\Debug\net7.0\src.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\obj\Debug\net7.0\src.AssemblyInfoInputs.cache
+C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\obj\Debug\net7.0\src.AssemblyInfo.cs
+C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\obj\Debug\net7.0\src.csproj.CoreCompileInputs.cache
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\Microsoft.TestPlatform.AdapterUtilities.dll
@@ -6,8 +11,12 @@ C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\D
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\src.runtimeconfig.json
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\src.dll
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\src.pdb
+C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\DotNetEnv.dll
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\Microsoft.ApplicationInsights.dll
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\Microsoft.Testing.Extensions.Telemetry.dll
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\Microsoft.Testing.Extensions.VSTestBridge.dll
@@ -16,7 +25,9 @@ C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\D
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\MQTTnet.dll
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\Sprache.dll
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\System.IO.Pipelines.dll
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\System.Text.Encodings.Web.dll
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\System.Text.Json.dll
@@ -113,11 +124,6 @@ C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\D
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\obj\Debug\net7.0\src.csproj.AssemblyReference.cache
-C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\obj\Debug\net7.0\src.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\obj\Debug\net7.0\src.AssemblyInfoInputs.cache
-C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\obj\Debug\net7.0\src.AssemblyInfo.cs
-C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\obj\Debug\net7.0\src.csproj.CoreCompileInputs.cache
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\obj\Debug\net7.0\src.csproj.CopyComplete
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\obj\Debug\net7.0\src.dll
 C:\Users\agbow\OneDrive\Desktop\-WILLIAMS_AGBO-ISL21-REQ117214-Written\src\obj\Debug\net7.0\refint\src.dll
