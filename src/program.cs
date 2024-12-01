@@ -1,4 +1,19 @@
-﻿using System;
+﻿/*======================================================================
+| Program class
+|
+| Name: program.cs
+|
+| Written by: Williams Agbo - 2024-12-01
+|
+| Purpose: Entry point of the application.
+|
+| Usage: Initializes services and starts the application.
+|
+| Description of properties: None
+|
+|----
+*/
+using System;
 using System.Text.Json;
 using System.Threading.Tasks;
 using DotNetEnv; 

@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\tests\\Tests.csproj": {}
+    "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\Tests\\Tests.csproj": {}
   },
   "projects": {
     "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\src\\src.csproj": {
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\tests\\Tests.csproj": {
+    "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\tests\\Tests.csproj",
+        "projectUniqueName": "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\tests\\Tests.csproj",
+        "projectPath": "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\Tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\agbow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\tests\\obj\\",
+        "outputPath": "C:\\Users\\agbow\\OneDrive\\Desktop\\-WILLIAMS_AGBO-ISL21-REQ117214-Written\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
