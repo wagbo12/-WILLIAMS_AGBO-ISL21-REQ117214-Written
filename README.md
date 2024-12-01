@@ -76,7 +76,7 @@ The project uses the following NuGet packages:
 1. **Update the .env File**
    
     USERNAME=user
-    PASSWORD=r44UKbfSeIn9AZjI4Ed24xr6
+    PASSWORD=the password
     TOPIC_ID=Your MQTT Topic ID
 
 2. **Build The project**
